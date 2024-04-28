@@ -83,3 +83,12 @@ body {
   font-size: 28px;
   margin-top: -6px;
 }
+.weather {
+  display: none;
+}
+.error {
+  text-align: center;
+  font-size: 14px;
+  margin-top: 10px;
+  display: none;
+}
